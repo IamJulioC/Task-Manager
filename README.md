@@ -29,7 +29,7 @@ Tecnologias:
 <br><br>
 
 #
-### Contribua
+### Contribua!
 
 Contribuições são sempre bem-vindas!
 
